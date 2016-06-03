@@ -9,9 +9,10 @@ Our Home Page looks like This: </br>
 Showing Suggestion while giving Source or Destination (Solved Using Ajax) </br>
 ![Giving Input](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/2.png)
 ## Showing Results:
+Showing Results Sort By Time: </br>
 ![Showing Results](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/3.png)
 ## Sort Results:
-Showing Reslult Sort By Cost: </br>
+Showing Same Results Sort By Cost: </br>
 ![Sort By Cost](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/4.png)
-</br> </br> Showing Reslult Sort By Distance: </br>
+</br> </br> Showing Same Results Sort By Distance: </br>
 ![Sort By Distance](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/5.png)
