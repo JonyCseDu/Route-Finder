@@ -3,10 +3,10 @@
 Route Finder in a Web App written in PHP Finds all possible path from A source To A Destination. It can Sort result with respect to time, distance and Cost.
 
 ## Home Page:
-Our Home Page looks like This:
+Our Home Page looks like This: </br>
 ![Home Page](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/1.png)
 ## Giving Input:
-Showing Suggestion while giving Source or Destination (Solved Using Ajax)
+Showing Suggestion while giving Source or Destination (Solved Using Ajax) </br>
 ![Giving Input](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/2.png)
 ## Showing Results:
 ![Showing Results](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/3.png)
