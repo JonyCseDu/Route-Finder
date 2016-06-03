@@ -1,0 +1,28 @@
+Turna				Dhaka			Chittagong		12:30 AM				7:00 AM 				425					248
+Turna				Chittagong		Dhaka			12:40 AM				7:10 AM 				425					248
+Subarna_Express 	Chittagong		Dhaka			7:00 AM 				12:40 PM				635					248
+Subarna_Express 	Dhaka			Chittagong		3:00 PM 				8:30 PM					635					248
+Mohanagar_Godhuli 	Chittagong		Dhaka			3:00 PM 				10:15 PM				425					248
+Mohanagar_Provati 	Dhaka			Chittagong		7:40 AM 				2:55 PM					425					248
+Ekota_Express		Dhaka			Dinajpur		10:00 AM 				7:45 PM 				510					356
+Ekota_Express		Dinajpur		Dhaka			9:20 PM 				7:10 AM  				510					356
+Parabat_Express		Dhaka			Sylhet			6:40 AM 				1:40 PM 				395					245
+Parabat_Express		Sylhet			Dhaka			3:00 PM 				10:35 PM 				395					245
+Upokul_Express		Dhaka			Noakhali		3:20 PM 				9:40 PM 				363					171
+Upokul_Express		Noakhali		Dhaka			6:00 AM 				12:30 PM 				363					171
+Paharika_Express    Chittagong		Sylhet			8:45 AM 				6:00 PM 				460					381
+Paharika_Express    Sylhet			Chittagong		10:15 AM 				8:05 PM 				460					381
+
+Padma_Express		Dhaka			Rajshahi		11:10 PM 				4:50 AM 				315					244
+Padma_Express		Rajshahi		Dhaka			4:00 PM 				9:50 PM 				315					244
+Dhumketu_Express 	Dhaka 			Rajshahi		6:00 PM 				11:50 PM 				275 				244
+Dhumketu_Express 	Rajshahi		Dhaka			11:20 PM 				4:55 AM 				275					244
+
+end
+
+Dhaka
+Chittagong
+Sylhet
+Noakhali
+Dinajpur
+Rajshahi

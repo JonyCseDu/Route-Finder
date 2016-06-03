@@ -1,0 +1,183 @@
+@font-face {
+  	font-family: "Avenir Next";
+ 	src: url("Avenir/AvenirLTStd-BookOblique.otf"); /* File to be stored at your site */
+}
+
+@font-face {
+  	font-family: "Avenir Next Bold";
+ 	src: url("Avenir/AvenirNextLTPro-Bold.otf"); /* File to be stored at your site */
+}
+
+@font-face {
+  	font-family: "Avenir Next Regular";
+ 	src: url("Avenir/AvenirNextLTPro-Regular.otf"); /* File to be stored at your site */
+}
+body{
+	font-family: "AvenirNextLTPro-Bold";
+	font-weight: bold;
+}
+
+.background{
+	background-image: url("back.jpg");
+	background-size: 100%;
+}
+
+.frmSearch{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+	padding:40px;
+}
+
+#location-list{z-index: 10000; list-style:none;margin:0;padding:0;width:190px;}
+	#location-list li{z-index: 99999999; padding: 10px; background:#FAFAFA;border-bottom:#F0F0F0 1px solid;}
+	#location-list li:hover{background:#F0F0F0;}
+	#search-box{padding: 10px;border: #F0F0F0 1px solid;}
+
+.source{
+	float: left;
+	width: 40%;
+	height: 100px;
+}
+
+label{
+	font-family: Verdana;
+	color: white;
+	font-size: 18px;
+}
+
+.destination{
+	/*margin-left: 40px;*/
+	float: right;
+	width: 40%;
+	height: 100px;
+}
+
+.time{
+	clear: both;
+	padding-top: 10px;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.hid{
+	background: none repeat scroll 0 0 #FFFFFF;
+    font-family: "Arial Narrow",Arial,Gadget,sans-serif;
+    position: relative;
+	z-index: 999999999;
+}
+
+input[type="text"]{
+	background-color:  #DAF7A6 !important
+}
+
+.butStyle{
+	padding-top: 40px;
+	
+}
+
+.butStyle > .btn{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.route{
+	padding: 20px;
+	margin: 100px;
+	border-radius: 10px;
+	background:    white;
+	border: 1px solid grey;
+}
+
+.route-title{
+	font-family: "AvenirNextLTPro-Bold";
+	font-size: 25px;
+	margin: 20px;
+	border-radius: 5px;
+	padding: 20px;
+	background-color: #1e5d78;
+	color: white;
+}
+
+.detail{
+	display: flex;
+	border-radius: 8px;
+	background-color: #FFC300;
+	margin: 20px;
+	padding: 20px;
+}
+
+.detail > div{
+	flex: 1;
+	width: 33%;
+	float: left;
+	font-size: 16px;
+	color: black;
+}
+
+.header{
+	display: flex;
+	font-size: 16px;
+	color: black;
+	background-color:  #76be32;
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 4px;
+}
+
+.header > div{
+	flex: 1;
+}
+
+.individual{
+	display: flex;
+	font-size: 16px;
+	color: white;
+	background-color:  #ac1f11;
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 4px;
+}
+
+.individual > div{
+	flex: 1;
+}
+
+.fail{
+	margin-top: 20%;
+	width:35%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 40px;
+	font-weight: bold;
+	color: red;
+}
+
+.top{
+	background-color:  #7dcd69; 
+	margin-top: 50px;
+	width: 70%;
+	height: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+}
+
+.top > div{
+	float: left;
+	padding: 15px 50px;
+	color:black;
+	font-size: 16px;
+}
+
+.top > div > div{
+	color: black;
+	width: 50%;
+	float: left;
+	padding-bottom: 20px;
+}
