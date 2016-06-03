@@ -11,7 +11,7 @@ Showing Suggestion while giving Source or Destination (Solved Using Ajax)
 ## Showing Results:
 ![Showing Results](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/3.png)
 ## Sort Results:
-Showing Reslult Sort By Cost:
+Showing Reslult Sort By Cost: </br>
 ![Sort By Cost](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/4.png)
-Showing Reslult Sort By Distance:
+Showing Reslult Sort By Distance: </br>
 ![Sort By Distance](https://raw.githubusercontent.com/JonyCseDu/Route-Finder/master/5.png)
