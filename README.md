@@ -1,6 +1,6 @@
 # Route-Finder
 
-Route Finder in a Web App written in PHP Finds all possible path from A source To A Destination. It can Sort result with respect to time, distance and Cost.
+Route Finder is a Web App written in PHP Finds all possible path from A source To A Destination. It can Sort result with respect to time, distance and Cost.
 
 ## Home Page:
 Our Home Page looks like This: </br>
